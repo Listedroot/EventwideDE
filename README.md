@@ -10,6 +10,29 @@ EventwideDE is a modern, feature-rich desktop environment designed specifically 
 - Real notifications, clipboard, and settings
 - Production-grade codebase, modular and organized
 
+
+## Build & Install
+
+### Requirements
+- GCC (or Clang)
+- GTK+ 3 development libraries
+- ALSA development libraries (for volume)
+- pkg-config
+
+### Build
+
+```sh
+make
+```
+
+### Install (manual example)
+
+Copy the resulting binaries to your system's bin directory:
+
+```sh
+sudo cp eventwidede-* /usr/local/bin/
+```
+
 ## License
 See [LICENSE](LICENSE) for details.
 
