@@ -3,12 +3,12 @@
 EventwideDE is a modern, feature-rich desktop environment designed specifically for the Eventwide Linux distribution. It is not recommended to run EventwideDE on any other Linux distribution, as it is tightly integrated with Eventwide Linux system components and user experience.
 
 ## Features
-- Classy, modern UI
+- Classy UI 
 - Full window management (tiling, stacking, floating)
 - Start menu, taskbar, and interactive desktop
 - Application launcher, workspace switcher, and system tray
-- Real notifications, clipboard, and settings
-- Production-grade codebase, modular and organized
+- notifications, clipboard, and settings
+- modular and organized
 
 
 ## Build & Install
